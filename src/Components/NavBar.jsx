@@ -12,7 +12,7 @@ function NavBar() {
             <img src="#" className="h-8" alt="" />
             <span className="self-center text-2xl font-bold whitespace-nowrap text-black dark:text-white">Sahi Hisab</span>
           </a>
-          <div className="flex md:order-2 space-x-4 md:space-x-4 rtl:space-x-reverse">
+          <div className="flex md:order-2 space-x-4 md:space-x-4 rtl:space-x-reverse border rounded-full px-4 py-2">
             <button
               type="button"
               className="text-blue-800 dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-full text-sm px-4 py-2 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
