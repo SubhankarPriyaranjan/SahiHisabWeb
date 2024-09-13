@@ -43,10 +43,12 @@ This is the frontend portion of the project, built using **React**, powered by *
 Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request. Please ensure that your code follows the project’s coding standards and passes linting checks.
 
 ## License
+###Creative Commons BY-NC License
+Personal Project License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project, "SahiHisab," is a personal project bySubhankar. It is provided solely for personal use and learning purposes. You are allowed to view, copy, and use the code for personal projects, but you may not modify, redistribute, or use it for commercial purposes without explicit permission from the author.
 
----
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 Developed by Subhankar and Bichitra 
 Feel free to contact me at [priyaranjansubhankar@gmail.com , dashbichitrananda01@gmail.com] for any queries or suggestions.
