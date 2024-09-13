@@ -48,8 +48,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Developed by [Subhankar and Bichitra ]  
-Feel free to contact me at [priyaranjansubhankar@gmail.com] for any queries or suggestions.
+Developed by Subhankar and Bichitra 
+Feel free to contact me at [priyaranjansubhankar@gmail.com , dashbichitrananda01@gmail.com] for any queries or suggestions.
 
   #Thank you Visit again 🙏🙏
 
